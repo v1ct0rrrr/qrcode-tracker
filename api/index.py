@@ -5,7 +5,7 @@ import datetime
 app = FastAPI()
 
 # URL direto da img
-URL_DA_IMAGEM = "https://lh3.googleusercontent.com/d/1Xau3hnojurMNDQSHHFEuLcALrkrx-0D8"
+URL_DA_IMAGEM = "https://lh3.googleusercontent.com/d/1pSKQhJfxwjxRzUPEtLCaHuhh6c8dYwby"
 
 @app.get("/")
 def home():
