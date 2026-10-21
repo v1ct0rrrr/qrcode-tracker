@@ -1,7 +1,7 @@
 import qrcode
 
 # URL pública do endpoint que você hospedou na nuvem
-URL_PUBLICA = "https://meu-rastreador.vercel.app/view"
+URL_PUBLICA = "https://qrcode-tracker-tau.vercel.app/view"
 
 qr = qrcode.QRCode(
     version=1,
